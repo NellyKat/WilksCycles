@@ -46,7 +46,7 @@
 
 	#banner,
 	.wrapper.style4 {
-		background-image: url("../../images/bike.jpg");
+		background-image: <div class="image"><img src="images/bike.jpg" alt="" /></div><div class="content">;
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -101,7 +101,7 @@
 /* Main */
 
 	#main > header {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("bike.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
