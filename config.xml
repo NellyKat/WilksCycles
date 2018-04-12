@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Wilks Cycles"
+
+>
+  <image imageURL="images/2bikes.jpg"
+	thumbURL="thumbs/2bikes.jpg"
+	linkURL="images/2bikes.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\finished\2bikes.jpg">
+    <title><![CDATA[2bikes]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2bikesfront.jpg"
+	thumbURL="thumbs/2bikesfront.jpg"
+	linkURL="images/2bikesfront.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\finished\2bikesfront.jpg">
+    <title><![CDATA[2bikesfront]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/frontview.jpg"
+	thumbURL="thumbs/frontview.jpg"
+	linkURL="images/frontview.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\finished\frontview.jpg">
+    <title><![CDATA[frontview]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
