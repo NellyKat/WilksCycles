@@ -3,6 +3,8 @@
 <juiceboxgallery 
 
 	galleryTitle="Wilks Cycles"
+	useThumbDots="false"
+	useFullscreenExpand="true"
 
 >
   <image imageURL="images/2bikes.jpg"
@@ -10,7 +12,7 @@
 	linkURL="images/2bikes.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\finished\2bikes.jpg">
-    <title><![CDATA[2bikes]]></title>
+    <title><![CDATA[Powder Coated Lugged Frames]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/2bikesfront.jpg"
@@ -18,7 +20,7 @@
 	linkURL="images/2bikesfront.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\finished\2bikesfront.jpg">
-    <title><![CDATA[2bikesfront]]></title>
+    <title><![CDATA[Powder Coated Lugged Frames]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/frontview.jpg"
@@ -26,7 +28,63 @@
 	linkURL="images/frontview.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\finished\frontview.jpg">
-    <title><![CDATA[frontview]]></title>
+    <title><![CDATA[Powder Coated Lugged Frames]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orange-bike-bottem-bracket.jpg"
+	thumbURL="thumbs/orange-bike-bottem-bracket.jpg"
+	linkURL="images/orange-bike-bottem-bracket.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orange-bike-bottem-bracket.jpg">
+    <title><![CDATA[Bottom Bracket of a Wet Paint Lugged Frame]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orangebike-bottem-bracket-front.jpg"
+	thumbURL="thumbs/orangebike-bottem-bracket-front.jpg"
+	linkURL="images/orangebike-bottem-bracket-front.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orangebike-bottem-bracket-front.jpg">
+    <title><![CDATA[Bottom Bracket of a Wet Paint Lugged Frame]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orange-bike-fork.jpg"
+	thumbURL="thumbs/orange-bike-fork.jpg"
+	linkURL="images/orange-bike-fork.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orange-bike-fork.jpg">
+    <title><![CDATA[Fork of a Wet Paint Lugged Frame]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orange-bike-front.jpg"
+	thumbURL="thumbs/orange-bike-front.jpg"
+	linkURL="images/orange-bike-front.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orange-bike-front.jpg">
+    <title><![CDATA[Fork of a Wet Paint Lugged Frame]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orange-bike-front-joint.jpg"
+	thumbURL="thumbs/orange-bike-front-joint.jpg"
+	linkURL="images/orange-bike-front-joint.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orange-bike-front-joint.jpg">
+    <title><![CDATA[Joint of a Wet Paint Lugged Frame]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orange-bike-side.jpg"
+	thumbURL="thumbs/orange-bike-side.jpg"
+	linkURL="images/orange-bike-side.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orange-bike-side.jpg">
+    <title><![CDATA[A Custom Lugged Frame]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/orange-bike-side-view.jpg"
+	thumbURL="thumbs/orange-bike-side-view.jpg"
+	linkURL="images/orange-bike-side-view.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Katie Nelson\Dropbox\Documents\Personal\Craig\images\orange-bike-side-view.jpg">
+    <title><![CDATA[Front View of a Wet Paint Lugged Frame]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
